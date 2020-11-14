@@ -3,9 +3,7 @@
 </p>
 <h3 align="center">Hi there, This is We Coders, Welcome Here! 👋 </h3>
 <p align="center">
-🔥 I'm 17 Year's Old Freelance FrontEnd Web Developer Based in Bangladesh and Learning New Things Everyday. <br>
-😄 I'm so much passionate about what I do ♥. <br>
-⚡ My Favourites: HTML, CSS, JavaScript, jQuery, Bootstrap, React, PHP, NodeJS, MySQL, MongoDB... <br>
+We are a team of experienced developers and designers. We build an excellent Website, Web Application, and Design in very less time. For websites, We use WordPress or HTML, CSS, JavaScript, Bootstrap, Jquery, and PHP. Besides, for Designing, we use Adobe Photoshop, Illustrator, XD, Figma, Sketch. So, We can provide an exceptional design along with your website. We are looking forward to work on your project!!
 </p>
 
 <p align="center">
